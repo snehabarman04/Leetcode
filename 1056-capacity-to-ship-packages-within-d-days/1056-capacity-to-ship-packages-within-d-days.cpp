@@ -21,7 +21,7 @@ public:
             high+=weights[i];
         }
         while(low<=high){
-            int mid=(low+high)/2;
+            int mid=low+(high-low)/2;
             if(daysTaken(weights,mid)>days) low=mid+1;
             else high=mid-1;
         }
