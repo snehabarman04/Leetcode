@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/snehabarman04/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/snehabarman04/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/snehabarman04/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [4041-climbing-stairs-ii](https://github.com/snehabarman04/Leetcode/tree/master/4041-climbing-stairs-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/snehabarman04/Leetcode/tree/master/0070-climbing-stairs) |
+| [4041-climbing-stairs-ii](https://github.com/snehabarman04/Leetcode/tree/master/4041-climbing-stairs-ii) |
 ## Memoization
 |  |
 | ------- |
