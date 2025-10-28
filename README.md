@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/snehabarman04/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/snehabarman04/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/snehabarman04/Leetcode/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/snehabarman04/Leetcode/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/snehabarman04/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/snehabarman04/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/snehabarman04/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/snehabarman04/Leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/snehabarman04/Leetcode/tree/master/0198-house-robber) |
 | [4041-climbing-stairs-ii](https://github.com/snehabarman04/Leetcode/tree/master/4041-climbing-stairs-ii) |
 ## Memoization
 |  |
