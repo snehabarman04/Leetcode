@@ -54,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/snehabarman04/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/snehabarman04/Leetcode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/snehabarman04/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/snehabarman04/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/snehabarman04/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/snehabarman04/Leetcode/tree/master/0322-coin-change) |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/snehabarman04/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/snehabarman04/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
